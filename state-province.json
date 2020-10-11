@@ -141,40 +141,80 @@
 			"state-province":"New Mexico"
 		},
 		{
-			"code":"",
-			"state-province":""
+			"code":"NY",
+			"state-province":"New York"
 		},
 		{
-			"code":"",
-			"state-province":""
+			"code":"NC",
+			"state-province":"North Carolina"
 		},
 		{
-			"code":"",
-			"state-province":""
+			"code":"ND",
+			"state-province":"North Dakota"
 		},
 		{
-			"code":"",
-			"state-province":""
+			"code":"OH",
+			"state-province":"Ohio"
 		},
 		{
-			"code":"",
-			"state-province":""
+			"code":"OK",
+			"state-province":"Oklahoma"
 		},
 		{
-			"code":"",
-			"state-province":""
+			"code":"OR",
+			"state-province":"Oregon"
 		},
 		{
-			"code":"",
-			"state-province":""
+			"code":"PA",
+			"state-province":"Pennsylvania"
 		},
 		{
-			"code":"",
-			"state-province":""
+			"code":"RI",
+			"state-province":"Rhode Island"
 		},
 		{
-			"code":"",
-			"state-province":""
+			"code":"SC",
+			"state-province":"South Carolina"
+		},
+		{
+			"code":"SD",
+			"state-province":"South Dakota"
+		},
+		{
+			"code":"TN",
+			"state-province":"Tennessee"
+		},
+		{
+			"code":"TX",
+			"state-province":"Texas"
+		},
+		{
+			"code":"UT",
+			"state-province":"Utah"
+		},
+		{
+			"code":"VT",
+			"state-province":"Vermont"
+		},
+		{
+			"code":"VA",
+			"state-province":"Virginia"
+		},
+		{
+			"code":"WA",
+			"state-province":"Washington"
+		},
+		{
+			"code":"WV",
+			"state-province":"West Virginia"
+		},
+		{
+			"code":"WI",
+			"state-province":"Wisconsin"
+		},
+		{
+			"code":"WY",
+			"state-province":"Wyoming"
 		},
 		{
 			"code":"",
